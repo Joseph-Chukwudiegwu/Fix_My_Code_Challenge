@@ -3,7 +3,8 @@
 
 ### Background Context
 - Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!  Sometimes you will know the language, sometimes not.
-## Languages to be debugged 
+## Languages to be debugged ![image](https://github.com/Joseph-Chukwudiegwu/Fix_My_Code_Challenge/assets/117829502/60e75cd3-bb51-4c99-b1a8-401db19bcdf9)
+
 * C
 * Python
 * JavaScript 
